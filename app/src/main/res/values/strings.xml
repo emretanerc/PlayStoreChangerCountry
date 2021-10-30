@@ -1,3 +1,184 @@
 <resources>
     <string name="app_name">PlayStoreChangerCountry</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="Languages">
+        <item>en</item>
+        <item>de</item>
+        <item>English</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+    </string-array>
+
+
+    <string-array name="freeCountry">
+        <item>tr</item>
+        <item>Greece</item>
+        <item>Kenya</item>
+        <item>Japan</item>
+        <item>+137 Premium Account</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+        <item>Locked.</item>
+
+    </string-array>
+
+    <string-array name="premiumCountry">
+    <item>al</item> Albania
+    <item>dz</item> Algeria
+    <item>https://play.google.com/?gl=ao</item> Angola
+    <item>https://play.google.com/?gl=ag</item> Antigua and Barbuda
+    <item>https://play.google.com/?gl=ar</item> Argentina
+    <item>https://play.google.com/?gl=am</item>Armenia
+    <item>https://play.google.com/?gl=aw </item>Aruba
+    <item>https://play.google.com/?gl=au </item>Australia
+    <item>https://play.google.com/?gl=at </item>Austria
+    <item>https://play.google.com/?gl=az </item>Azerbaijan
+    <item>https://play.google.com/?gl=bs </item>Bahamas
+    <item>https://play.google.com/?gl=bh </item>Bahrain
+    <item>https://play.google.com/?gl=bd </item>Bangladesh
+    <item>https://play.google.com/?gl=by </item>Belarus
+    <item>https://play.google.com/?gl=be </item>Belgium
+    <item>https://play.google.com/?gl=bz </item>Belize
+    <item>https://play.google.com/?gl=bj </item>Benin
+    <item>https://play.google.com/?gl=bo </item>Bolivia
+    <item>https://play.google.com/?gl=ba </item>Bosnia and Herzegovina
+    <item>https://play.google.com/?gl=bw </item>Botswana
+    <item>https://play.google.com/?gl=br </item>Brazil
+    <item>https://play.google.com/?gl=bg </item>Bulgaria
+    <item>https://play.google.com/?gl=bf </item>Burkina
+    <item>https://play.google.com/?gl=kh </item>Cambodia
+    <item>https://play.google.com/?gl=cm </item>Cameroon
+    <item>https://play.google.com/?gl=ca </item>Canada
+    <item>https://play.google.com/?gl=cv </item>Cape Verde
+    <item>https://play.google.com/?gl=cl </item>Chile
+    <item>https://play.google.com/?gl=co </item>Colombia
+    <item>https://play.google.com/?gl=cr </item>Costa Rica
+    <item>https://play.google.com/?gl=ci </item>Cote d' Ivore
+    <item>https://play.google.com/?gl=hr </item>Croatia
+    <item>https://play.google.com/?gl=cy </item>Cyprus
+    <item>https://play.google.com/?gl=cz </item>Czech Republic
+    <item>https://play.google.com/?gl=dk </item>Denmark
+    <item>https://play.google.com/?gl=do </item>Dominican Republic
+    <item>https://play.google.com/?gl=ec </item>Ecuador
+    <item>https://play.google.com/?gl=eg </item>Egypt
+    <item>https://play.google.com/?gl=sv </item>El Salvador
+    <item>https://play.google.com/?gl=ee </item>Estonia
+    <item>https://play.google.com/?gl=fj </item>Fiji
+    <item>https://play.google.com/?gl=fi </item>Finland
+    <item>https://play.google.com/?gl=fr </item>France
+    <item>https://play.google.com/?gl=ga </item>Gabon
+    <item>https://play.google.com/?gl=de </item>Germany
+    <item>https://play.google.com/?gl=gh </item>Ghana
+    <item>https://play.google.com/?gl=gr </item>Greece
+    <item>https://play.google.com/?gl=gt </item>Guatemala
+    <item>https://play.google.com/?gl=gw </item>Guinea-Bissau
+    <item>https://play.google.com/?gl=ht</item> Haiti
+    <item>https://play.google.com/?gl=hn</item> Honduras
+    <item>https://play.google.com/?gl=hk</item> Hong Kong
+    <item>https://play.google.com/?gl=hu </item>Hungary
+    <item>https://play.google.com/?gl=is </item>Iceland
+    <item>https://play.google.com/?gl=in </item>India
+    <item>https://play.google.com/?gl=id</item> Indonesia
+    <item>https://play.google.com/?gl=ie </item>Ireland
+    <item>https://play.google.com/?gl=il </item>Israel
+    <item>https://play.google.com/?gl=it </item>Italy
+    <item>https://play.google.com/?gl=jm </item>Jamaica
+    <item>https://play.google.com/?gl=jp </item>Japan
+    <item>https://play.google.com/?gl=jo </item>Jordan
+    <item>https://play.google.com/?gl=kz </item>Kazakhstan
+    <item>https://play.google.com/?gl=ke</item> Kenya
+    <item>https://play.google.com/?gl=kw </item>Kuwait
+    <item>https://play.google.com/?gl=kg </item>Kyrgyzstan
+    <item>https://play.google.com/?gl=la </item>Laos
+    <item>https://play.google.com/?gl=lv </item>Latvia
+    <item>https://play.google.com/?gl=lb </item>Lebanon
+    <item>https://play.google.com/?gl=li </item>Liechtenstein
+    <item>https://play.google.com/?gl=lt </item>Lithuania
+    <item>https://play.google.com/?gl=lu </item>Luxembourg
+    <item>https://play.google.com/?gl=mk </item>Macedonia
+    <item>https://play.google.com/?gl=my </item>Malaysia
+    <item>https://play.google.com/?gl=ml </item>Mali
+    <item>https://play.google.com/?gl=mt </item>Malta
+    <item>https://play.google.com/?gl=mu </item>Mauritius
+    <item>https://play.google.com/?gl=mx </item>Mexico
+    <item>https://play.google.com/?gl=md </item>Moldova
+    <item>https://play.google.com/?gl=ma</item> Morocco
+    <item>https://play.google.com/?gl=mz</item> Mozambique
+    <item>https://play.google.com/?gl=na </item>Namibia
+    <item>https://play.google.com/?gl=np </item>Nepal
+    <item>https://play.google.com/?gl=nl </item>Netherlands
+    <item>https://play.google.com/?gl=an </item>Netherlands Antilles
+    <item>https://play.google.com/?gl=nz</item> New Zealand
+    <item>https://play.google.com/?gl=ni </item>Nicaragua
+    <item>https://play.google.com/?gl=ne </item>Niger
+    <item>https://play.google.com/?gl=ng </item>Nigeria
+    <item>https://play.google.com/?gl=no </item>Norway
+    <item>https://play.google.com/?gl=om </item>Oman
+    <item>https://play.google.com/?gl=pk </item>Pakistan
+    <item>https://play.google.com/?gl=pa </item>Panama
+    <item>https://play.google.com/?gl=pg </item>Papua New Guinea
+    <item>https://play.google.com/?gl=py </item>Paraguay
+    <item>https://play.google.com/?gl=pe </item>Peru
+    <item>https://play.google.com/?gl=ph </item>Philippines
+    <item>https://play.google.com/?gl=pl</item> Poland
+    <item>https://play.google.com/?gl=pt </item>Portugal
+    <item>https://play.google.com/?gl=qa </item>Qatar
+    <item>https://play.google.com/?gl=ro</item> Romania
+    <item>https://play.google.com/?gl=ru </item>Russia
+    <item>https://play.google.com/?gl=rw </item>Rwanda
+    <item>https://play.google.com/?gl=sa </item>Saudi Arabia
+    <item>https://play.google.com/?gl=sn </item>Senegal
+    <item>https://play.google.com/?gl=rs </item>Serbia
+    <item>https://play.google.com/?gl=sg</item> Singapore
+    <item>https://play.google.com/?gl=sk</item> Slovakia
+    <item>https://play.google.com/?gl=si</item> Slovenia
+    <item>https://play.google.com/?gl=za </item>South Africa
+    <item>https://play.google.com/?gl=kr </item>South Korea
+    <item>https://play.google.com/?gl=es </item>Spain
+    <item>https://play.google.com/?gl=lk</item> Sri Lanka
+    <item>https://play.google.com/?gl=se</item> Sweden
+    <item>https://play.google.com/?gl=ch</item> Switzerland
+    <item>https://play.google.com/?gl=tw</item> Taiwan
+    <item>https://play.google.com/?gl=tj </item>Tajikistan
+    <item>https://play.google.com/?gl=tz </item>Tanzania
+    <item>https://play.google.com/?gl=th </item>Thailand
+    <item>https://play.google.com/?gl=tg</item> Togo
+    <item>https://play.google.com/?gl=tt </item>Trinidad and Tobago
+    <item>https://play.google.com/?gl=tn </item>Tunisia
+    <item>https://play.google.com/?gl=tr </item>Turkey
+    <item>https://play.google.com/?gl=tm </item>Turkmenistan
+    <item>https://play.google.com/?gl=ug</item> Uganda
+    <item>https://play.google.com/?gl=ua</item> Ukraine
+    <item>https://play.google.com/?gl=ae</item> United Arab Emirates
+    <item>https://play.google.com/?gl=gb</item> United Kingdom
+    <item>https://play.google.com/?gl=us</item> United States (including Puerto Rico, American Samoa, Guam, Marshall Islands, Northern Mariana Islands, Palau and US Virgin Islands)
+    <item>https://play.google.com/?gl=uy</item> Uruguay
+    <item>https://play.google.com/?gl=uz</item> Uzbekistan
+    <item>https://play.google.com/?gl=ve</item> Venezuela
+    <item>https://play.google.com/?gl=vn</item> Vietnam
+    <item>https://play.google.com/?gl=ye</item> Yemen
+    <item>https://play.google.com/?gl=zm</item> Zambia
+    <item>https://play.google.com/?gl=zw</item> Zimbabwe
+    </string-array>
+
 </resources>
